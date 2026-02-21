@@ -2,7 +2,7 @@
 
 A sleek, dark-themed Task Management application built to demonstrate professional state management in a **Vanilla JavaScript** environment using **Redux**. This project showcases how to handle complex UI logic without the need for modern frameworks like React.
 
-![Project Preview](images/screen.png)
+![Project Preview](images/screen.pn)
 
 ## ✨ Features
 
